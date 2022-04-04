@@ -9,9 +9,9 @@ This software is a route planning system and the purpose of this product is to p
 3. Install Dependencies with `poetry install`
 4. Run with `poetry run python3 rutgersdelivery/main.py`. You need Python 3.9 and above to run
 
-**Password is rurahrah**
+***Password is rurahrah***
 
-# How to run the program 
+## How to run the program 
 
 This is on how to input user values: 
 
