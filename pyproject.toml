@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "RutgersDelivery"
+version = "0.1.0"
+description = ""
+authors = ["Eshaan Mathur <eshaanm25@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+PyInputPlus = "^0.2.12"
+passlib = "^1.7.4"
+bcrypt = "^3.2.0"
+mlrose-hiive = "^2.2.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
