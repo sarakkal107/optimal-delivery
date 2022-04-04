@@ -6,8 +6,6 @@ To approach this prompt, the team used agile methodology and scrum calls to addr
 All of these components helped us come up with a program that satisfies all the requirements. 
 
 
-# Rutgers Delivery Tool
-
 ## Basic Setup
 1. [Install Poetry](https://python-poetry.org/docs/). Don't forget to add the poetry command to your PATH (Instructions to do this is given post-installation)
 2. Navigate to the GitHub Project
@@ -45,8 +43,8 @@ We ran the testcases using pytest.
 4. If the program outputs 'All tests passed' then the testing is successful.
 
 ## Contributors 
-1. Akanksha Arun - aa2013@scarletmail.rutgers.edu
-2. Eshaan Mathur - em919@scarletmail.rutgers.edu
-3. Eoin O’Hare - eso25@scarletmail.rutgers.edu
-4. Sidhu Arakkal - ssa150@scarletmail.rutgers.edu
-5. Mohammad Awais Zubair - maz106@scarletmail.rutgers.edu
+1. Sidhu Arakkal
+2. Akanksha Arun
+3. Eshaan Mathur
+4. Eoin O’Hare 
+5. Mohammad Awais Zubair 
